@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "frontend-api-dashboard",
+      "title": "Frontend API Integration Dashboard",
+      "description": "Building a browser dashboard that fetches and displays FastAPI data with interactive search and detail views.",
+      "path": "assignments/frontend-api-dashboard",
+      "dueDate": "2026-05-07",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "starter-dashboard.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter JavaScript",
+          "file": "starter-app.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
